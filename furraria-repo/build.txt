@@ -1,0 +1,3 @@
+author = glitchor
+version = 0.5
+displayName = Furraria Mod
